@@ -552,7 +552,7 @@ html {
   scroll-behavior: smooth;
 }
 
-@media (max-width: 767px) {
+@media (max-height: 767px) {
   .icon-div {
     height: 3%;
   }
